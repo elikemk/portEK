@@ -16,33 +16,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
 To personalize this portfolio for yourself, update the following:
 
-### 1. Personal Information (index.html)
-
-- Line 20: Replace "Your Name" with your actual name
-- Line 21: Update the subtitle with your role/title
-- Line 29-37: Update social media links
-- Line 45-46: Update the about section text
-- Line 180-189: Update contact information
-
-### 2. Projects (index.html)
-
-- Lines 51-141: Replace the sample projects with your own:
-  - Update project titles
-  - Update project descriptions
-  - Update technology tags
-  - Update GitHub and live demo links
-
-### 3. Skills (index.html)
-
-- Lines 146-177: Customize the skills to match your expertise
-
-### 4. Colors (styles.css)
-
-Update the CSS variables in lines 9-17 to match your preferred color scheme:
-```css
---primary-color: #6366f1;
---secondary-color: #8b5cf6;
-```
 
 ## Local Development
 
